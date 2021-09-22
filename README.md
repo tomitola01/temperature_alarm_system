@@ -1,6 +1,6 @@
 # Temperature Alarm System
 
-A temperature alarm system created using Mbed OS for the LPC1768 development board and mbed application board.
+A temperature alarm system created using Mbed OS for the LPC1768 development board with an mbed application board.
 
 An LM75B temperature sensor is used to detect the temperature. If the temperature goes too low or too high, the blue and red LEDs respectively act as warning alarms. The high and low limits are set using the potentiometers.<br>
 
